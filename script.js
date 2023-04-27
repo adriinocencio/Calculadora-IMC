@@ -1,13 +1,3 @@
-/*
-Resultado abaixo de 17 - Muito abaixo do peso
-Resultado entre 17 e 18,49 - Abaixo do peso
-Resultado entre 18,5 e 24,99 - Peso ideal
-Resultado entre 25 e 29,99 - Sobrepeso
-Resultado entre 30 e 34,99 - Obesidade grau I
-Resultado entre 35 e 39,99 - Obesidade grau II (severa)
-Resultado acima de 40 - Obesidade grau III (mórbida)
-*/
-
 var peso;
 var altura;
 var imc;
